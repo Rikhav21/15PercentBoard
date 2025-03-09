@@ -12,6 +12,8 @@ This is just a simple PCB, I designed in Kicad.
 
 <img src=fifteen_percent/assets/PCB.png alt="PCB" width="500"/>
 
+## Firmware
+ChatGPT did help with the firmware, because I was not able to get it to work, however this is only a standin for some better firmware later
 ## Matierials.
 For this I will need some
 - screws
