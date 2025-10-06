@@ -1,8 +1,8 @@
 // config.h
 #pragma once
 
-#define MATRIX_ROWS 8  // 4 per side
-#define MATRIX_COLS 8  // 4 per side
+#define MATRIX_ROWS 8
+#define MATRIX_COLS 8  
 #define DIODE_DIRECTION COL2ROW
 
 #define SPLIT_KEYBOARD
@@ -10,11 +10,9 @@
 #define OLED_ENABLE
 #define SPLIT_TRANSPORT_MIRROR
 
-#define SOFT_SERIAL_PIN GP0  // TRRS Serial communication
-
+#define SOFT_SERIAL_PIN GP0 
 #define OLED_DISPLAY_128X64
-#define OLED_TIMEOUT 30000  // 30 sec timeout
-
+#define OLED_TIMEOUT 30000 
 // rules.mk
 OLED_ENABLE = yes
 SPLIT_KEYBOARD = yes
@@ -39,3 +37,4 @@ bool oled_task_user(void) {
     return false;
 }
 #endif
+
