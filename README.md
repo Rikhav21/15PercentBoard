@@ -18,10 +18,10 @@ I spent way to long making the firmware, because I was trying to map out the ent
 For this I will need some
 - screws (m3) around 15mm
 - heatset inserts m3x4x5
-- Cerry MX, PCB mount keys (I want the really annoying clicky blue ones.)
-- keycaps (I might just 3d print these)
+- Cerry MX, PCB mount keys (I want the really clicky jade ones.)
+- keycaps 
 - 2 raspberry picos
 - 0.96 inch OLED
-- Pin headers (I think that  is what those are called)
+- Pin headers
 - TRRS cable
 - TRRS connectors.
